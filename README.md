@@ -1,1 +1,1 @@
-This is python programs using forloop
+This is python programs using whileloop
